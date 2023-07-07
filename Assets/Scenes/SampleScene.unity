@@ -655,10 +655,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2101797190}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e1b22f21ad2d1d169320dcf2915b256, type: 3}
+  m_Script: {fileID: 11500000, guid: 447e5828714724f96bc5c70f2a192b01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonDisplayTextPanelPrefab: {fileID: 7262312035342619352, guid: 3f5487e7bc5fce7609aacfa7738704cd, type: 3}
+  buttonDisplayTextPanelPrefab: {fileID: 7262312035342619352, guid: fd8cf91e2419272aeb6ada304e382b32, type: 3}
+  axisDisplayTextPanelPrefab: {fileID: 7262312035342619352, guid: 3f5487e7bc5fce7609aacfa7738704cd, type: 3}
 --- !u!114 &2101797193
 MonoBehaviour:
   m_ObjectHideFlags: 0

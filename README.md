@@ -16,4 +16,4 @@ The screen will display which `KeyCode`s are pressed.
 
 ## Shortcomings
 
-- Currently no support for joystick axes. 
+- Handles axis input from 8 joysticks only up to 12 axes (hard-ish coded).
